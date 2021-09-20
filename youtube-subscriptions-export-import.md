@@ -8,6 +8,16 @@ description: Export / Import YouTube subscriptions using Google Sheet and YouTub
 
 [https://docs.google.com/spreadsheets/d/1C9M0yVJ1U2ZAabFZ4cxBwxityV-7LtNHG0HAmfMrSkw/copy](https://docs.google.com/spreadsheets/d/1C9M0yVJ1U2ZAabFZ4cxBwxityV-7LtNHG0HAmfMrSkw/copy)
 
+## How to use the sheet?
+
+1. Copy the sheet by go to the link above.
+2. Share the sheet to your other account.
+3. On your old account: click on **YouTube Subscription** - **List**.
+4. Do all the authentication stuff.
+5. On your new account: click on **YouTube Subscription** - **Subscribe**.
+6. Again, do all the authentication stuff.
+7. Profit!
+
 ## Problem
 
 YouTube have recently removed channel exporting feature \(or something like that, once we can use the exported XML file to import to other account by using another 3rd tool\).
@@ -107,14 +117,4 @@ function addSubscription() {
 
 ```
 {% endcode %}
-
-## How to use the sheet?
-
-1. Copy the sheet by go to the link above.
-2. Share the sheet to your another account.
-3. On your old account: click on **YouTube Subscription** - **List**.
-4. Do all the authentication stuff.
-5. On your new account: click on **YouTube Subscription** - **Subscribe**.
-6. Again, do all the authentication stuff.
-7. Profit!
 
