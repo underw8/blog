@@ -7,4 +7,4 @@
 * [Circle CI - AWS Assume Role Orb 🔮](circle-ci-aws-assume-role-orb.md)
 * [Cloud Functions logs Slack Alert ❣️](cloud-functions-logs-slack-alert.md)
 * [CloudWatch Logs Slack Alert ❣️](cloudwatch-logs-slack-alert.md)
-
+* [Static website deployment preview with S3 and CloudFront](static-website-deployment-preview-with-s3-and-cloudfront.md)
