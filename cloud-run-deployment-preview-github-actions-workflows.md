@@ -1,10 +1,10 @@
 # Cloud Run Deployment Preview Github Actions workflows 🔍
 
-Base on official tutorial by GCP which using Cloud Build \([Configuring deployment previews \| Cloud Run Documentation](https://cloud.google.com/run/docs/tutorials/configure-deployment-previews)\), I've "converted" these flows to Github Actions workflows.
+Base on official tutorial by GCP which using Cloud Build ([Configuring deployment previews | Cloud Run Documentation](https://cloud.google.com/run/docs/tutorials/configure-deployment-previews)), I've "converted" these flows to Github Actions workflows.
 
 Below is sample deployment previews for `develop` environment.
 
-{% code title="preview\_deploy.yml" %}
+{% code title="preview_deploy.yml" %}
 ```yaml
 on:
   pull_request:
@@ -67,7 +67,7 @@ jobs:
 ```
 {% endcode %}
 
-{% code title="preview\_cleanup.yml" %}
+{% code title="preview_cleanup.yml" %}
 ```yaml
 on:
   pull_request:
@@ -158,4 +158,3 @@ jobs:
 {% hint style="info" %}
 The deploy workflow is only intended to run on merged PR, not by direct pushing to the branch. You may replace the trigger with `push` to suite your need.
 {% endhint %}
-
