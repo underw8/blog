@@ -5,7 +5,7 @@ description: How to create deployment previews with S3 and CloudFront
 # Static website deployment preview with S3 and CloudFront 🪞
 
 ```
-// deployment-preview-basic-auth-and-router-function
+// deployment-preview-proxy-function
 
 'use strict';
 exports.handler = (event, context, callback) => {
@@ -80,7 +80,7 @@ The "sprint-0x" subdomain can be named/entered with anything as long as there is
 * A subdomain use specifically for deployment preview, i.e: preview.domain.app
 * Wildcard ACM certificates for bot \`us-east-1\` region and the region your app are hosted.
 * A CloudFront distribution with a wildcard alternative domain name for serving static website and also act as CDN.
-* A Lambda@Edge function hosted on CloudFront distribution that works as a router (optionally as a basic authenticator since preview app tend to not be public)
+* A Lambda@Edge function hosted on CloudFront distribution that works as a proxy (optionally add a basic auth mechanism since preview app tend not to be public)
 
 The total cost at the time of creation is $0.5 for Route53 hosted zone, other charges may be incurred depends on the number of traffics.
 
@@ -91,7 +91,7 @@ The total cost at the time of creation is $0.5 for Route53 hosted zone, other ch
 3. Request for wildcard ACM certificates on both \`us-east-1\` (for CloudFront) and the region your websites are hosted.
 4. Create a CloudFront distribution with the deployment preview bucket as origin and the wildcard domain and certificate.
 5. Create a Route53 wildcard record pointing to our newly created CloudFront distribution.
-6. Create a Lambda@Edge function in \`us-east-1\` region and deploy to CloudFront.
+6. Create a Lambda@Edge function with basic lambda execution role in \`us-east-1\` region and deploy to CloudFront.
 
 ### Deploy via CloudFormation template
 
