@@ -16,14 +16,18 @@ exports.handler = (event, context, callback) => {
     const uri = request.uri;
     const host = headers.host[0].value;
     
-    console.log(`headers: ${headers}`);
-    console.log(`uri: ${uri}`);
-    console.log(`host: ${host}`);
+    // Configure authentication
+    const authUser = 'admin';
+    const authPass = 'minda';
+
+    // Configure deployment preview subdomain
+    const subdomain = 'preview';
+
+    let sprintUri = '';
+    let hostArray = host.split('.');
     
-    let sprintUri = "";
-    
-    if (host.match('preview')) {
-        let hostArray = host.split(".");
+    // Check whether the subdomain is match
+    if (host.match(subdomain) && (hostArray[0] != subdomain)) {
         sprintUri = hostArray[0] + '/';
     }
     
@@ -35,12 +39,6 @@ exports.handler = (event, context, callback) => {
     else if (!uri.includes('.')) {
         request.uri += `/${sprintUri}index.html`;
     }
-
-    console.log(`request.uri: ${request.uri}`);
-
-    // Configure authentication
-    const authUser = 'admin';
-    const authPass = 'minda';
 
     // Construct the Basic Auth string
     const authString = 'Basic ' + new Buffer(authUser + ':' + authPass).toString('base64');
