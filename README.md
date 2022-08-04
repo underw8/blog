@@ -12,5 +12,5 @@ description: Just a warm welcome.
 
 ## Contact me
 
-* Email: kiettran.dng@gmail.com
+* Email: a@caidu.me
 * Github: underw8
