@@ -4,7 +4,7 @@ description: >-
   change to shine.
 ---
 
-# I built a cheapo arm server using a old TV box
+# 📟 I built a cheapo arm server using a old TV box
 
 ## Why?
 

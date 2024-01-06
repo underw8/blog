@@ -2,7 +2,7 @@
 description: Export / Import YouTube subscriptions using Google Sheet and YouTube API
 ---
 
-# YouTube subscriptions export / import 📺
+# 📺 YouTube subscriptions export / import
 
 ## Just need the link? Right here!
 

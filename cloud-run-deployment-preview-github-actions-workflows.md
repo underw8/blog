@@ -1,4 +1,4 @@
-# Cloud Run Deployment Preview Github Actions workflows 🔍
+# 🔍 Cloud Run Deployment Preview Github Actions workflows
 
 Base on official tutorial by GCP which using Cloud Build ([Configuring deployment previews | Cloud Run Documentation](https://cloud.google.com/run/docs/tutorials/configure-deployment-previews)), I've "converted" these flows to Github Actions workflows.
 
