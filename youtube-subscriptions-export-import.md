@@ -20,7 +20,7 @@ description: Export / Import YouTube subscriptions using Google Sheet and YouTub
 
 ## Problem
 
-YouTube have recently removed channel exporting feature \(or something like that, once we can use the exported XML file to import to other account by using another 3rd tool\).
+YouTube have recently removed channel exporting feature (or something like that, once we can use the exported XML file to import to other account by using another 3rd tool).
 
 Luckily, the [**YouTube Data API**](https://developers.google.com/youtube/v3/docs/subscriptions) is still there, and we can use them in combine with [**Google App Script**](https://developers.google.com/apps-script/advanced/youtube) within Google Sheet to export and import subscriptions from one account to another.
 
@@ -28,10 +28,10 @@ Luckily, the [**YouTube Data API**](https://developers.google.com/youtube/v3/doc
 
 Well, because they has **Google App Script** - a very capable scripting platform that heavily integrated with **almost all Google services**. **The most important thing for me is a don't have to deal with the OAuth things.**
 
-![Export / Importing Youtube subscription with Google Sheet](.gitbook/assets/image.png)
+![Export / Importing Youtube subscription with Google Sheet](<.gitbook/assets/image (1).png>)
 
 {% hint style="info" %}
- I'm still working on Playlist and honestly I don't feel like I need to, so... please ignore the PLAYLIST sheet atm.
+&#x20;I'm still working on Playlist and honestly I don't feel like I need to, so... please ignore the PLAYLIST sheet atm.
 {% endhint %}
 
 Here you can get a glimpse of the code:
@@ -117,4 +117,3 @@ function addSubscription() {
 
 ```
 {% endcode %}
-
