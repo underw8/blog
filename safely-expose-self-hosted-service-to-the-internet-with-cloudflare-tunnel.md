@@ -1,2 +1,2 @@
-# Safely expose self hosted service to the internet with Cloudflare Tunnel
+# 🛡 Safely expose self hosted service to the internet with Cloudflare Tunnel
 
