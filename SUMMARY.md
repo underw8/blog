@@ -8,3 +8,4 @@
 * [🔮 Circle CI - AWS Assume Role Orb](circle-ci-aws-assume-role-orb.md)
 * [📟 I built a cheapo arm server using a old TV box](i-built-a-cheapo-arm-server-using-a-old-tv-box.md)
 * [🤖 How I monitor my Windows machines using Grafana](how-i-monitor-my-windows-machines-using-grafana.md)
+* [Safely expose self hosted service to the internet with Cloudflare Tunnel](safely-expose-self-hosted-service-to-the-internet-with-cloudflare-tunnel.md)
