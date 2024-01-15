@@ -76,7 +76,7 @@ Pretty straight forward, follow the on-screen installation menu.
 
     * TX3MINI-XB(P) - Using 9012p wifi chipset
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>credit to <a href="https://www.forum.atvxperience.com/memberlist.php?mode=viewprofile&#x26;u=33455&#x26;sid=7a9b5e03e7caeac27970782b5be115a6">phansyvu</a></p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>credit to <a href="https://www.forum.atvxperience.com/memberlist.php?mode=viewprofile&#x26;u=33455&#x26;sid=7a9b5e03e7caeac27970782b5be115a6">phansyvu</a></p></figcaption></figure>
 
 
 * A

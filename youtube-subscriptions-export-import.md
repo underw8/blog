@@ -28,7 +28,7 @@ Luckily, the [**YouTube Data API**](https://developers.google.com/youtube/v3/doc
 
 Well, because they has **Google App Script** - a very capable scripting platform that heavily integrated with **almost all Google services**. **The most important thing for me is a don't have to deal with the OAuth things.**
 
-![Export / Importing Youtube subscription with Google Sheet](<.gitbook/assets/image (1).png>)
+![Export / Importing Youtube subscription with Google Sheet](<.gitbook/assets/image (1) (1).png>)
 
 {% hint style="info" %}
 &#x20;I'm still working on Playlist and honestly I don't feel like I need to, so... please ignore the PLAYLIST sheet atm.
