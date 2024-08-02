@@ -10,3 +10,4 @@
 * [🤖 How I monitor my Windows machines using Grafana](how-i-monitor-my-windows-machines-using-grafana.md)
 * [🛡️ Safely expose self hosted service to the internet with Cloudflare Tunnel](safely-expose-self-hosted-service-to-the-internet-with-cloudflare-tunnel.md)
 * [🪦 I built a cheapo NAS](i-built-a-cheapo-nas.md)
+* [🐘 PostgreSQL12 on Amazon Linux 1](postgresql12-on-amazon-linux-1.md)
