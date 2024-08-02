@@ -4,7 +4,7 @@ description: >-
   PostgreSQL 15 database.
 ---
 
-# 🐘 PostgreSQL12 on Amazon Linux 1
+# 🐘 Connect to PostgreSQL 15 database on Amazon Linux 1
 
 Current AMIv1 only contains up to PostgreSQL version 9.6 as per: [https://aws.amazon.com/amazon-linux-ami/2018-03-packages/](https://aws.amazon.com/amazon-linux-ami/2018-03-packages/)
 
