@@ -28,7 +28,7 @@ thus for application required connection to PostgreSQL 15 would fail miserably w
 CRAM authentication requires libpq version 10 or above (PG::ConnectionBad)
 ```
 
-PostgreSQL version before 12 is no longer available on all PostgreSQL repositories. Yet, the archive yum repository is currently in-accessiable:
+**EDIT**: The repo is accessible if appending index.html. However, I still unable to find any pre-built binary for it. PostgreSQL version before 12 is no longer available on all PostgreSQL repositories. Yet, the archive yum repository is currently in-accessiable:
 
 ```
 https://yum-archive.postgresql.org/
