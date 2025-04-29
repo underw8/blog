@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🙋 Welcome 👋](README.md)
+* [📬 How to remove your old iCloud email (not alias)](how-to-remove-your-old-icloud-email-not-alias.md)
 * [📺 YouTube subscriptions export / import](youtube-subscriptions-export-import.md)
 * [🔍 Cloud Run Deployment Preview Github Actions workflows](cloud-run-deployment-preview-github-actions-workflows.md)
 * [🪞 Static website deployment preview with S3 and CloudFront](static-website-deployment-preview-with-s3-and-cloudfront.md)
