@@ -2,6 +2,7 @@
 
 * [🙋 Welcome 👋](README.md)
 * [📬 How to remove your old iCloud email (not alias)](how-to-remove-your-old-icloud-email-not-alias.md)
+* [🐛 Using Cloudflare Access Service Tokens with a Single JSON Header](using-cloudflare-access-service-tokens-with-a-single-json-header.md)
 * [📺 YouTube subscriptions export / import](youtube-subscriptions-export-import.md)
 * [🔍 Cloud Run Deployment Preview Github Actions workflows](cloud-run-deployment-preview-github-actions-workflows.md)
 * [🪞 Static website deployment preview with S3 and CloudFront](static-website-deployment-preview-with-s3-and-cloudfront.md)
@@ -13,4 +14,3 @@
 * [🛡️ Safely expose self hosted service to the internet with Cloudflare Tunnel](safely-expose-self-hosted-service-to-the-internet-with-cloudflare-tunnel.md)
 * [🪦 I built a cheapo NAS](i-built-a-cheapo-nas.md)
 * [🐘 Connect to PostgreSQL 15 database on Amazon Linux 1](connect-to-postgresql-15-database-on-amazon-linux-1.md)
-* [🐛 Using Cloudflare Access Service Tokens with a Single JSON Header](using-cloudflare-access-service-tokens-with-a-single-json-header.md)
