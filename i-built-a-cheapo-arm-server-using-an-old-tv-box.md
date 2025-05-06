@@ -4,11 +4,11 @@ description: >-
   change to shine.
 ---
 
-# 📟 I built a cheapo arm server using a old TV box
+# 📟 I built a cheapo arm server using an old TV box
 
-## Why?
+## But why?
 
-
+While it still has its uses, for something under 10W, I'd say it's worth it, even just to host something simple like an AirPlay server.
 
 ## Prerequisites
 
@@ -77,13 +77,13 @@ Pretty straight forward, follow the on-screen installation menu.
     * TX3MINI-XB(P) - Using 9012p wifi chipset
 
     <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>credit to <a href="https://www.forum.atvxperience.com/memberlist.php?mode=viewprofile&#x26;u=33455&#x26;sid=7a9b5e03e7caeac27970782b5be115a6">phansyvu</a></p></figcaption></figure>
+*   TX3MINI-A: SP6330 dual band wifi version
 
-
-* A
-* A
+    <figure><img src=".gitbook/assets/450db25cd8db9ce5fe73f.jpg" alt=""><figcaption><p>credit to <a href="https://forum.atvxperience.com/memberlist.php?mode=viewprofile&#x26;u=36598&#x26;sid=e224272d00a31aa3daff008b86875ae4">mikinana64</a></p></figcaption></figure>
+* Clones and fakes: [https://emuelec.discourse.group/t/tx3-mini-clones-and-fakes/41/2](https://emuelec.discourse.group/t/tx3-mini-clones-and-fakes/41/2)
 
 ## References
 
 * [https://i12bretro.github.io/tutorials/0393.html](https://i12bretro.github.io/tutorials/0393.html)
 * [https://i12bretro.github.io/tutorials/0316.html](https://i12bretro.github.io/tutorials/0316.html)
-*
+* [https://forum.atvxperience.com/viewtopic.php?t=7079](https://forum.atvxperience.com/viewtopic.php?t=7079)

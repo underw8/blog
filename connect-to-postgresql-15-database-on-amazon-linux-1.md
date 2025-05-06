@@ -6,6 +6,8 @@ description: >-
 
 # 🐘 Connect to PostgreSQL 15 database on Amazon Linux 1
 
+## Problem
+
 Current AMIv1 only contains up to PostgreSQL version 9.6 as per: [https://aws.amazon.com/amazon-linux-ami/2018-03-packages/](https://aws.amazon.com/amazon-linux-ami/2018-03-packages/)
 
 ```bash
@@ -35,6 +37,8 @@ https://yum-archive.postgresql.org/
 ```
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>no hope</p></figcaption></figure>
+
+## Solution
 
 The only way right now is to install postgresql 12 and pray that nothing will break (yes, jumping 3 major version is something need to be carefully evaluated)
 

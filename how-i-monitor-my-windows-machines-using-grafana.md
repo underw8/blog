@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Looks cool huh?</p></figcaption></figure>
 
-## Why?
+## But why?
 
 Well it's always a good idea to have something to trace back if either my machines is acting weird or broken down for no reason.
 

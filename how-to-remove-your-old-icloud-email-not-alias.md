@@ -2,6 +2,8 @@
 
 If you once created your Apple ID using a _hideous_ iCloud email address and now deeply regret it, here’s some good news: Apple finally allows you to remove that address. But — of course — it’s Apple, so it’s not as straightforward as it should be.
 
+## Problem
+
 When you try to remove your _only_ iCloud address, you’ll hit an error with a wonderfully cryptic message:\
 &#xNAN;**“Could not connect to iCloud – Error Description not available.”**\
 What the hell, Apple?
@@ -14,7 +16,7 @@ After playing detective/QA engineer for a while, here’s what I found:
 
 ***
 
-## How to Fix It
+## Solution
 
 1. **Create a new iCloud alias (**[**original Apple article**](https://support.apple.com/en-vn/guide/icloud/mm6b1a490a/icloud)**)**:
    * Go to [icloud.com/mail](https://www.icloud.com/mail) and sign in.
