@@ -13,3 +13,4 @@
 * [🛡️ Safely expose self hosted service to the internet with Cloudflare Tunnel](safely-expose-self-hosted-service-to-the-internet-with-cloudflare-tunnel.md)
 * [🪦 I built a cheapo NAS](i-built-a-cheapo-nas.md)
 * [🐘 Connect to PostgreSQL 15 database on Amazon Linux 1](connect-to-postgresql-15-database-on-amazon-linux-1.md)
+* [🐛 Using Cloudflare Access Service Tokens with a Single JSON Header](using-cloudflare-access-service-tokens-with-a-single-json-header.md)
